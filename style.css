@@ -22,7 +22,7 @@ html, body {
 }
 
 body {
-    background: #4682B4;
+    background: #3367d1;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -81,7 +81,7 @@ body > div > div > img {
 }
 
 body > div > div > * {
-    color: #4682B4;
+    color: #3367d1;
 }
 
 
